@@ -1,0 +1,1 @@
+CREATE procedure fetch_all() begin select * from admin; end;
